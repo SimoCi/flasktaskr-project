@@ -10,6 +10,6 @@ deploy:
   provider: heroku
   api_key:
     secure: WuAdJEUYL9GGjhUJu/mxhs0fQgKC/vr4T0k9JZFCzM2AmpP00BPbdBjWM4OFO8+GwQW4ov/zkR8nTLwoFZmOOQlBd5xdaAD2uqD2mdmko0OKqhCXS8YvziJNaQewNPe9/qrPWnYcFLI/ZaTfr3js2zAE3n6QrqUnrs2XCgeVhrk=
-  app: flasktaskr-project
+  app: tranquil-refuge-6545
   on:
     repo: SimoCi/flasktaskr-project
