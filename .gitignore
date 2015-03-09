@@ -1,0 +1,4 @@
+*.pyc
+*.db
+cover
+*.sublime

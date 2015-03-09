@@ -1,0 +1,122 @@
+<!-- /project/tasks/templates/tasks.html -->
+
+
+{% extends "template.html" %}
+
+{% block content %}
+
+  <h1>Welcome to FlaskTaskr</h1>
+  <div class="add-task">
+    <div class="lead">Add a new task:</div>
+      <form action="{{ url_for('tasks.new_task') }}" method="post">
+        {{ form.csrf_token }}
+        <p>
+        {{ form.name(placeholder="name") }}
+        <span class="error">
+          {% if form.name.errors %}
+            {% for error in form.name.errors %}
+              {{ error }}
+            {% endfor %}
+          {% endif %}
+        </span>
+        </p>
+        <p>
+        {{ form.due_date(placeholder="due date (mm/dd/yyyy)") }}
+        <span class="error">
+          {% if form.due_date.errors %}
+            {% for error in form.due_date.errors %}
+              {{ error }}
+            {% endfor %}
+          {% endif %}
+        </span>
+        </p>
+        <p>
+        {{ form.priority.label }}
+        {{ form.priority(class="form-control",style="max-width:60px;") }}
+        <span class="error">
+          {% if form.priority.errors %}
+            {% for error in form.priority.errors %}
+              {{ error }}
+            {% endfor %}
+          {% endif %}
+        </span>
+        </p>
+        <br>
+        <p><button class="btn btn-sm btn-success" type="submit">Submit</button></p>
+      </form>
+  </div>
+<div class="entries">
+  <br>
+  <br>
+  <div class="lead">Open tasks</div>
+  <br>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Task Name</th>
+        <th>Due Date</th>
+        <th>Posted Date</th>
+        <th>Priority</th>
+        <th>Posted By</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for ot in open_tasks %}
+      <tr>
+        <td>{{ ot.name }}</td>
+        <td>{{ ot.due_date }}</td>
+        <td>{{ ot.posted_date }}</td>
+        <td>{{ ot.priority }}</td>
+        <td>{{ ot.poster.name }}</td>
+        <td>
+          {% if ot.poster.name == session.name or session.role == "admin" %}
+            <a href="{{ url_for('tasks.delete_entry', task_id = ot.task_id) }}">Delete</a>  -
+            <a href="{{ url_for('tasks.complete', task_id = ot.task_id) }}">Mark as Complete</a>
+          {% else %}
+            <span>N/A</span>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+<br>
+<br>
+<div class="entries">
+  <div class="lead">Closed tasks</div>
+  <br>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Task Name</th>
+        <th>Due Date</th>
+        <th>Posted Date</th>
+        <th>Priority</th>
+        <th>Posted By</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for ct in closed_tasks %}
+      <tr>
+        <td>{{ ct.name }}</td>
+        <td>{{ ct.due_date }}</td>
+        <td>{{ ct.posted_date }}</td>
+        <td>{{ ct.priority }}</td>
+        <td>{{ ct.poster.name }}</td>
+        <td>
+          {% if ct.poster.name == session.name or session.role == "admin" %}
+            <a href="{{ url_for('tasks.delete_entry', task_id = ct.task_id) }}">Delete</a>
+          {% else %}
+            <span>N/A</span>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    <tbody>
+  </table>
+</div>
+
+{% endblock %}
