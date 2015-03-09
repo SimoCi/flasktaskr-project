@@ -1,4 +1,5 @@
 *.pyc
 *.db
 cover
-*.sublime
+*.sublime-project
+*.sublime-workspace

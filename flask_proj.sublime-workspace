@@ -4,550 +4,526 @@
 		"selected_items":
 		[
 			[
-				"no",
-				"nosetests"
+				"h",
+				"h1	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"show",
+				"show_hide_label"
+			],
+			[
+				"sho",
+				"show_badges"
+			],
+			[
+				"po",
+				"pollFactory"
+			],
+			[
+				"pol",
+				"poll_item"
+			],
+			[
+				"poll",
+				"pollFactory"
+			],
+			[
+				"p",
+				"poll"
+			],
+			[
+				"c",
+				"calling"
+			],
+			[
+				"to",
+				"total"
 			],
 			[
 				"re",
-				"result"
+				"return"
 			],
 			[
-				"r",
-				"result"
+				"tot",
+				"total"
 			],
 			[
-				"as",
-				"assertIn"
+				"pro",
+				"progress-bar-success"
+			],
+			[
+				"ss",
+				"status"
+			],
+			[
+				"ser",
+				"serializers"
 			],
 			[
 				"ap",
-				"application"
+				"api"
 			],
 			[
-				"T",
-				"True"
+				"url",
+				"url"
 			],
 			[
-				"task",
-				"task_id"
+				"dj",
+				"djangular_polls_json_urls"
 			],
 			[
-				"ass",
-				"assertEquals"
+				"m",
+				"main_json_urls"
 			],
 			[
-				"json",
-				"json_results"
+				"djan",
+				"djangulr_polls"
 			],
 			[
-				"resul",
-				"result"
-			],
-			[
-				"ta",
-				"task_id"
-			],
-			[
-				"resu",
-				"result"
-			],
-			[
-				"add",
-				"add_tasks"
+				"Pol",
+				"PollMember"
 			],
 			[
 				"se",
-				"session"
+				"serializers_class"
 			],
 			[
-				"con",
-				"config"
+				"Po",
+				"PollItem"
 			],
 			[
-				"her",
-				"heroku_test"
+				"P",
+				"PollItem"
 			],
 			[
-				"tes",
-				"test"
+				"Poll",
+				"PollItemSerializer"
 			],
 			[
-				"pu",
-				"pull"
+				"Pll",
+				"PollItem"
 			],
 			[
-				"te",
-				"test_users"
+				"new_pol",
+				"new_poll"
 			],
 			[
-				"py",
-				"python"
+				"new",
+				"new_poll"
 			],
 			[
-				"lg",
-				"logging"
+				"new_p",
+				"new_poll"
 			],
 			[
-				"fo",
-				"format"
+				"new_poll",
+				"new_pollitem"
 			],
 			[
-				"log",
-				"logging"
+				"ini",
+				"init_marketing_data"
 			],
 			[
-				"l",
-				"log"
-			],
-			[
-				"erro",
-				"error"
-			],
-			[
-				"e",
-				"error"
-			],
-			[
-				"error",
-				"error"
-			],
-			[
-				"cm",
-				"commit"
-			],
-			[
-				"repo",
-				"response"
-			],
-			[
-				"a",
-				"assertIn"
-			],
-			[
-				"al",
-				"allpowerful"
-			],
-			[
-				"cre",
-				"create_admin_user"
-			],
-			[
-				"da",
-				"data"
-			],
-			[
-				"com",
-				"complete"
-			],
-			[
-				"crea",
-				"create_user"
-			],
-			[
-				"lgo",
-				"login"
-			],
-			[
-				"rep",
-				"response"
-			],
-			[
-				"pytho",
-				"python101"
-			],
-			[
-				"s",
-				"self"
-			],
-			[
-				"V",
-				"ViewTesterMixin"
-			],
-			[
-				"Tes",
-				"TestCase"
-			],
-			[
-				"sin",
-				"sign_in"
-			],
-			[
-				"clas",
-				"classmethod"
+				"in",
+				"include"
 			],
 			[
 				"sta",
-				"status_code"
+				"status_reports"
+			],
+			[
+				"st",
+				"status_report"
+			],
+			[
+				"Ba",
+				"Badge"
+			],
+			[
+				"Bad",
+				"BadgeSerializer"
+			],
+			[
+				"permi",
+				"permission_classes"
+			],
+			[
+				"d",
+				"def	Function"
+			],
+			[
+				"as",
+				"assertEqual"
+			],
+			[
+				"Sta",
+				"StatusMember"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"get",
+				"get_request"
+			],
+			[
+				"St",
+				"StatusReport"
+			],
+			[
+				"Is",
+				"IsOwnerOrReadOnly"
+			],
+			[
+				"oj",
+				"objects"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"S",
+				"StatusReportSerializer"
+			],
+			[
+				"ST",
+				"StatusReport"
+			],
+			[
+				"H",
+				"HTTP_201_CREATED"
+			],
+			[
+				"D",
+				"DELETE"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"status",
+				"status_reports"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"JSON",
+				"JSONParser"
 			],
 			[
 				"ex",
-				"expected_html"
+				"expected_dict"
 			],
 			[
-				"exp",
-				"expected_html"
+				"e",
+				"expected_dict"
 			],
 			[
-				"view",
-				"view_func"
+				"JSO",
+				"JSONRenderer"
 			],
 			[
 				"cl",
 				"cls"
 			],
 			[
-				"asser",
-				"assertIsNotNone"
+				"a",
+				"attrs"
 			],
 			[
-				"sing",
-				"sign_out"
+				"wh",
+				"when"
 			],
 			[
-				"sig",
-				"sign_in"
+				"A",
+				"Announcement"
 			],
 			[
-				"cont",
-				"contact"
+				"ann",
+				"announce"
 			],
 			[
-				"Vali",
-				"validation"
+				"min",
+				"min-height"
 			],
 			[
-				"USer",
-				"UserForm"
+				"mar",
+				"margin"
 			],
 			[
-				"is",
-				"is_valid"
+				"l",
+				"last_4_digits"
 			],
 			[
-				"Simp",
-				"SimpleTestCase"
+				"ac",
+				"action	Attr"
 			],
 			[
-				"err",
-				"error"
+				"gra",
+				"gravatar_img"
 			],
 			[
-				"in",
-				"invalid_data_list"
+				"tes",
+				"test_user"
 			],
 			[
-				"Fo",
-				"FormTesterMixin"
+				"ma",
+				"margin-right"
 			],
 			[
-				"Te",
-				"TestCase"
+				"background-c",
+				"background-color"
 			],
 			[
-				"Test",
-				"TestCase"
+				"b",
+				"background"
 			],
 			[
-				"user",
-				"user_mock"
-			],
-			[
-				"inde",
-				"index"
-			],
-			[
-				"RE",
-				"RequestFactory"
+				"pad",
+				"padding-bottom"
 			],
 			[
 				"pa",
-				"payments"
+				"padding-top"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"Ma",
+				"MarketingItem"
+			],
+			[
+				"mark",
+				"market_items"
+			],
+			[
+				"but",
+				"button_link"
+			],
+			[
+				"im",
+				"img_name"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bu",
+				"button_title"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"object",
+				"objects"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"asse",
+				"assertEqual"
+			],
+			[
+				"mo",
+				"mock"
+			],
+			[
+				"str",
+				"stripe_id"
+			],
+			[
+				"usr",
+				"users"
+			],
+			[
+				"stri",
+				"stripe"
+			],
+			[
+				"ver",
+				"ver_password"
 			],
 			[
 				"User",
 				"UserForm"
 			],
 			[
-				"str",
-				"stripe_token"
+				"con",
+				"contact"
 			],
 			[
-				"c",
-				"card"
+				"time",
+				"timezone"
 			],
 			[
-				"U",
-				"UserForm"
+				"def",
+				"default"
 			],
 			[
-				"form",
-				"form"
+				"fo",
+				"forms"
 			],
 			[
-				"clea",
-				"cleaned_data"
+				"ret",
+				"return"
 			],
 			[
-				"Pa",
-				"PasswordInput"
+				"class",
+				"classmethod"
 			],
 			[
-				"Pas",
-				"Password"
+				"bi",
+				"billing_method"
 			],
 			[
-				"Pass",
-				"PasswordInput"
+				"cre",
+				"create"
 			],
 			[
-				"au",
-				"auto_now_add"
+				"View",
+				"ViewTesterMixin"
 			],
 			[
-				"C",
-				"CharField"
+				"Moc",
+				"MockUserForm"
 			],
 			[
-				"ST",
-				"STATIC_URL"
+				"crea",
+				"create_mock"
 			],
 			[
-				"vali",
-				"validate_topic"
+				"reut",
+				"return_value"
 			],
 			[
-				"mess",
-				"message"
+				"stripe",
+				"stripe_mock"
 			],
 			[
-				"for",
-				"form	Tag"
+				"objec",
+				"objects"
 			],
 			[
-				"Con",
-				"ContactFormAdmin"
-			],
-			[
-				"me",
-				"message"
-			],
-			[
-				"m",
-				"max_length"
-			],
-			[
-				"model",
-				"models"
-			],
-			[
-				"B",
-				"BASE_DIR"
-			],
-			[
-				"rend",
-				"render_to_response"
-			],
-			[
-				"M",
-				"MONGO_DATABASE_NAME"
-			],
-			[
-				"pr",
-				"prior"
-			],
-			[
-				"new",
-				"new_user"
-			],
-			[
-				"foo",
-				"follow_redirects"
-			],
-			[
-				"lo",
-				"logout"
-			],
-			[
-				"python",
-				"python01"
-			],
-			[
-				"Ass",
-				"assertIn"
-			],
-			[
-				"st",
-				"status_code"
-			],
-			[
-				"asse",
-				"assertEquals"
-			],
-			[
-				"p",
-				"password"
-			],
-			[
-				"TE",
-				"TEST_DB"
-			],
-			[
-				"backgorund",
-				"background-color"
-			],
-			[
-				"er",
-				"error"
-			],
-			[
-				"fi",
-				"field"
+				"USer",
+				"User"
 			],
 			[
 				"us",
-				"user_id"
+				"users"
 			],
 			[
-				"post",
-				"posted_date"
+				"confi",
+				"configure_mock"
 			],
 			[
-				"co",
-				"connect"
+				"yea",
+				"years"
 			],
 			[
-				"regis",
-				"register"
+				"exp",
+				"expected_form"
 			],
 			[
-				"Reg",
-				"RegisterForm"
+				"py",
+				"pyRock"
 			],
 			[
-				"Dat",
-				"DataRequired"
+				"pas",
+				"password"
 			],
 			[
-				"S",
-				"SQL_ALCHEMY_DATABASE_URI"
+				"srt",
+				"stripe_token"
 			],
 			[
-				"close",
-				"closed_tasks"
+				"me",
+				"method"
 			],
 			[
-				"pro",
-				"priority"
+				"first",
+				"firstContact"
 			],
 			[
-				"d",
-				"db"
-			],
-			[
-				"Da",
-				"DataRequired"
-			],
-			[
-				"Dta",
-				"DataRequired"
-			],
-			[
-				"h",
-				"h2	Tag"
-			],
-			[
-				"t",
-				"td	Tag"
-			],
-			[
-				"tb",
-				"table	Tag"
-			],
-			[
-				"o",
-				"option	Tag"
-			],
-			[
-				"clo",
-				"close"
-			],
-			[
-				"tsk",
-				"task_id"
-			],
-			[
-				"conn",
-				"connect_db"
-			],
-			[
-				"metho",
-				"methods"
-			],
-			[
-				"logi",
-				"login"
-			],
-			[
-				"li",
-				"link	Tag"
-			],
-			[
-				"text",
-				"textarea	Tag"
-			],
-			[
-				"b",
-				"br"
-			],
-			[
-				"f",
-				"form"
-			],
-			[
-				"login",
-				"login_required"
-			],
-			[
-				"logged",
-				"logged_in"
-			],
-			[
-				"redire",
-				"redirect"
+				"fi",
+				"firstContact"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "flasktaskr_project/project/views.py",
+			"file": ".travis.yml",
 			"settings":
 			{
-				"buffer_size": 4491,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "flasktaskr_project/project/models.py",
-			"settings":
-			{
-				"buffer_size": 1463,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "flasktaskr_project/fabfile.py",
-			"settings":
-			{
-				"buffer_size": 1137,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "flasktaskr_project/test_main.py",
-			"settings":
-			{
-				"buffer_size": 2562,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -579,140 +555,138 @@
 	},
 	"expanded_folders":
 	[
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project"
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-project"
 	],
 	"file_history":
 	[
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/Web/Flask/flask-boilerplate/Procfile",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/requirements.txt",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-ex06/flasktaskr_project/project/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/config.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-ex06/flasktaskr_project/test_main.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/test_main.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-ex06/flasktaskr_project/project/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/fabfile.py",
-		"/E/Varie/FBS/wp-config-fbs230913.php",
-		"/E/Varie/FBS/htaccess-fbs230913",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/Procfile",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/.git/config",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-ex06/.git/config",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-ex06/flasktaskr_project/fabfile.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/users/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/run.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/mypod/html/seattle_classic.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/mypod/html/seattle_downtown.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/mypod/html/seattle_video_med.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/mypod/index.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/images.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/_jedibadge.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/js/loggedInCtrl.js",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/js/application.js",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/js/userPollCtrl.js",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/djangular_polls/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/djangular_polls/json_views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/djangular_polls/serializers.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Web/HTML5/Learning/HeadFirstHtml-CSS/lounge/lounge.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/main/testsMainViews.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/urls.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/membership/urls.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/membership/settings.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/djangular_polls/urls.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/js/angular.min.js",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/djangular_polls/testDjangularPollsSerializers.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/main/testSerializers.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/.git/HEAD",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/.git/FETCH_HEAD",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/.git/config",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/migrations/data_load_marketing_items_0003.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/payments/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/contact/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/angular_test/index.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/fixtures/system_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/payments/migrations/0003_initial_data.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/serializers.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/migrations/0002_statusreport.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/migrations/0001_initial.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/rest_framework/api.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/payments/migrations/0001_initial.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/json_views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/main/testJSONViews.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/permissions.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/fixtures/initial_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/main.json_views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/chp11/django_ecommerce/main/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/fixtures/new_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/fixtures/old_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/requirements.txt",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/fixtures/some_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/_badges.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/user.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/_statusupdate.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/_announcements.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/payments/views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/payments/fixtures/initial_data.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/css/mec.css",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/__base.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/_field.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/main/testsMainGravatar.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/register.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/templatetags/main_gravatar.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/edit.html",
+		"/C/Anaconda/envs/djcomm_py3/Lib/site-packages/stripe/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/_cardform.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/_lateststatus.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/contact/testContactModels.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/payments/testUserModel.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/index.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/sign_in.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/templatetags/main_marketing.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/contact/contact.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/main/templatetags/circle_item.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/db_backup.json",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/css/signin.css",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/.gitignore",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/templatetags/circle.py",
+		"/C/Anaconda/envs/django1.7/Lib/site-packages/django/template/defaultfilters.py",
+		"/C/Anaconda/envs/django1.7/Lib/site-packages/django/template/defaulttags.py",
+		"/C/Users/Simo/Documents/GitHub/book3-exercises/_chapters/chp09/django_ecommerce/main/templatetags/main_marketing.py",
+		"/C/Users/Simo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Simo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/payments/testViews.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/tests/contact/testContactPageView.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/templatetags/marketing.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/contact/views.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/main/templatetags/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/payments/errors.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/flatpages/default.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/test.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/home.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/base.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/circle_item.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/templates/index.html",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/manage.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/membership-site/membership-site/static/jquery.min.js",
+		"/C/Users/Simo/Documents/GitHub/book3-exercises/_chapters/test.md",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/testContactModels.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/djcommerce/djcommerce/settings.py",
 		"/C/Program Files (x86)/Heroku/vendor/gems/excon-0.42.1/lib/excon/ssl_socket.rb",
-		"/C/Users/Simo/.node-gyp/0.10.26/deps/openssl/config/opensslconf.h",
-		"/C/Program Files (x86)/Heroku/vendor/gems/excon-0.42.1/lib/excon.rb",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/Procfile",
-		"/C/Users/Simo/.node-gyp/0.10.26/deps/openssl/openssl/crypto/cryptlib.h",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/.gitignore",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/templates/500.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/templates/404.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/test_users.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/test_tasks.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/tasks/templates/tasks.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/__init__.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/db_create.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/tasks/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/flasktaskr_project/project/templates/template.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr-05/old_files/old_tests.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/main/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/djcommerce/tests.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/payments/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/contact/tests.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/contact/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/payments/tests.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/payments/forms.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/main/tests.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/djcommerce/settings.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/payments/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/base.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/contact.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/requirements.txt",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/index.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/register.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/user.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/sign_in.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/errors.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/flatpages/default.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/cardform.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/Web/Django/django_ecommerce/django_ecommerce/payments/views.py",
-		"/C/Users/Simo/Documents/GitHub/book2-exercises/django_ecommerce/django_ecommerce/payments/forms.py",
-		"/C/Users/Simo/Documents/GitHub/book2-exercises/flasktaskr-04/app/test_users.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/djcommerce/urls.py",
-		"/C/Anaconda/envs/djcommerce/Lib/site-packages/stripe/__init__.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/contact/forms.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/payments/admin.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/contact/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/static/jquery.min.js",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/static/jquery.js",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/static/jquery_ujs.js",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/static/application.js",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/test.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/home.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/field.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/fields.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/edit.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/error.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/contact/admin.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/flatpages/contact.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/djcommerce/templates/flatpages/defautl.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/templates/index.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-ecommerce/templates/base.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-bloggy/bloggy_project/blog/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-bloggy/bloggy_project/blog/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-blongo/mongotest.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/hw-sql_2_1.py",
-		"/C/mongodb.bat",
-		"/C/PROGRAMMAZIONE/DataScience/IntroDataScienceUdacity/audioscrobbler.py",
-		"/C/mlclass-ex6-007/mlclass-ex6/ex6_spam.m",
-		"/C/PROGRAMMAZIONE/DataScience/IntroDataScienceUdacity/addfullname.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/templates/login.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/views.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/templates/tasks.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/forms.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/templates/register.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/static/css/styles.css",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/models.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/db_migrate.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/db_create.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/.gitignore",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/templates/registration.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/config.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/templates/template.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/requirements.txt",
-		"/C/PROGRAMMAZIONE/DataScience/IntroDataScienceUdacity/hr_by_team_year_sf_la.csv",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/sqlj.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/hw-sql_2_2.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/hw-sql_3.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/flask-wtf/build.sh",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/flask-wtf/bld.bat",
-		"/C/Anaconda/envs/_build/Lib/site-packages/README",
-		"/C/Anaconda/envs/_build/Lib/site-packages/_yaml.pyd",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/run.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flasktaskr/app/static/css/style.css",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/templates/template.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/static/css/styles.css",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/static/css/style.css",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/blog.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/templates/main.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/templates/login.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/hw-sql_2.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/login.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/main.html",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/assignment3a.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/assignment3a-sol.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/flask-blog/sql.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/assignment3b-sol.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/LPHW/ex36_AlienVSGalactica.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/assignment3b.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/sqli.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/sql/sqlh.py",
-		"/C/PROGRAMMAZIONE/Sviluppo/Java/JavaDesignPatterns/DesignPatterns19 - Adapter/src/SwingApp.java",
-		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython2/django-quick-start/hello_world_project/hello_world_project/settings.py"
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/djcommerce/contact/models.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/testCustomer.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/testForms.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/testUserModel.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/testViews.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/testContactView.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/test-requirement.txt",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/requirements.txt",
+		"/C/PROGRAMMAZIONE/DataScience/IntroDataScienceUdacity/turnstile_data_master_with_weather.csv",
+		"/C/Anaconda/envs/djcom_py34/Lib/site-packages/wsgiref-0.1.2/ez_setup/__init__.py",
+		"/C/Anaconda/envs/djcom_py34/Lib/site-packages/wsgiref-0.1.2/setup.py",
+		"/C/Anaconda/envs/djcom_py34/Lib/site-packages/wsgiref-0.1.2/test_wsgiref.py",
+		"/C/Users/Simo/Downloads/ez_setup.py",
+		"/C/Anaconda/envs/py34/Scripts/pip.exe",
+		"/C/Anaconda/envs/py34/Scripts/pip-script.py",
+		"/C/Anaconda/envs/djcom_py34/Lib/site-packages/setuptools.pth",
+		"/C/Anaconda/envs/py34/Scripts/easy_install-script.py",
+		"/C/Anaconda/envs/djcom_py34/Scripts/pip-script.py",
+		"/C/PROGRAMMAZIONE/DataScience/IntroDataScienceUdacity/Lesson2-DataWrangling/p2-2-tempfoggynonfoggy.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/testContactPageView.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/testutils.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/main/testsMainViews.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/testContactForm.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/main/testRoutes.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/testContactModel.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/contact/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/djcommerce/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/__init__",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/main/__init__.py",
+		"/C/PROGRAMMAZIONE/Sviluppo/Python/projects/RealPython3/django-ecommerce/tests/payments/userModelTests.py"
 	],
 	"find":
 	{
@@ -723,6 +697,7 @@
 		"height": 90.0,
 		"where_history":
 		[
+			"C:\\PROGRAMMAZIONE\\Sviluppo\\Python\\projects\\RealPython3\\membership-site\\membership-site\\main\\templatetags",
 			"C:\\PROGRAMMAZIONE\\Sviluppo\\Python\\projects\\RealPython2\\flasktaskr"
 		]
 	},
@@ -731,12 +706,53 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"log",
-			"lof",
-			"ENV",
-			"defaults",
-			"params",
-			"Excon.defaults[",
+			"}}",
+			"{{",
+			"new_status",
+			"]",
+			"][",
+			"main.St",
+			"id",
+			"instance_url",
+			"trans",
+			"retrieve",
+			"\"pk\"",
+			"@re",
+			"field",
+			".html",
+			"html",
+			"cardform",
+			"marketing.py",
+			"marketing",
+			"class=\"navbar-header\"> ",
+			"users",
+			"Custom",
+			"User",
+			"RequestFactory",
+			"IntegrityError",
+			"mock",
+			"RequestFactory",
+			"mock",
+			"HttpResponseRedirect",
+			"Customer",
+			"register",
+			"soon",
+			"sign_in",
+			"RequestContext",
+			"render_to_response",
+			"CardForm",
+			"UserForm",
+			"SigninForm",
+			"resolve",
+			"RequestFactory",
+			"SimpleTestCase",
+			"IntegrityError",
+			"datetime",
+			"HttpResponse",
+			"Integ",
+			"stripe",
+			"test@te",
+			"customer",
 			"CardForm",
 			"clean(",
 			"clean",
@@ -782,6 +798,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"]]",
+			"[[",
+			"new_pollitem",
 			"arguments",
 			"decimal",
 			""
@@ -792,6 +811,13 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\PROGRAMMAZIONE\\Sviluppo\\Python\\projects\\RealPython2\\flasktaskr-project"
+		}
+	],
 	"groups":
 	[
 		{
@@ -800,41 +826,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "flasktaskr_project/project/views.py",
+					"file": ".travis.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4491,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3776,
-								3776
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2400.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "flasktaskr_project/project/models.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1463,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -847,74 +843,13 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "flasktaskr_project/fabfile.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								608,
-								608
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 120.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "flasktaskr_project/test_main.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2386,
-								2386
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 786.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -959,10 +894,10 @@
 	{
 		"height": 0.0
 	},
-	"project": "flasktaskr_evo.sublime-project",
+	"project": "",
 	"replace":
 	{
-		"height": 42.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -980,7 +915,7 @@
 		[
 			[
 				"",
-				"C:\\PROGRAMMAZIONE\\Sviluppo\\Python\\projects\\RealPython2\\fltaskr_BP\\flasktaskr-BP.sublime-project"
+				"C:\\PROGRAMMAZIONE\\Sviluppo\\Python\\projects\\RealPython2\\flasktaskr-05\\flasktaskr_evo.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1001,7 +936,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 198.0,
+	"side_bar_width": 302.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
