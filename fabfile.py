@@ -21,10 +21,10 @@ def commit():
 
 def push():
 	local("git branch")
-	message = str(raw_input("Enter a branch to push: "))
+	branch = raw_input("Enter a branch to push: ")
 	# local('git push origin master')
 	# local("git push -u origin '{}'".format(message))
-	local("git push -u origin {}".format(branch))
+	local("git push -u origin " + branch)
 
 def prepare():
 	test()
