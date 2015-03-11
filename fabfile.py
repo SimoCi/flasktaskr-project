@@ -10,18 +10,21 @@ def test():
 		# result = local("python test_tasks.py -v && python test_users.py -v", 
 		#	capture=True)
 		result = local("nosetests -v", capture=True)
-		if result.failed and not confirm("Tests failed. Continue?"):
-			abort("Aborted at user request.")
+	if result.failed and not confirm("Tests failed. Continue?"):
+		abort("Aborted at user request.")
 
 def commit():
-	# message = str(raw_input("Enter a git commit message: "))
+	message = raw_input("Enter a git commit message: ")
 	# local("git add . && git commit -am '{}'".format(message))
-	local('git add . && git commit -am "Building a REST API"')
+	# local('git add . && git commit -am "Building a REST API"')
+	local('git add . && git commit -am "' + message + '"')
 
 def push():
-	# message = str(raw_input("Enter a branch to push: "))
-	local('git push origin master')
+	local("git branch")
+	branch = raw_input("Enter a branch to push: ")
+	# local('git push origin master')
 	# local("git push -u origin '{}'".format(message))
+	local("git push -u origin " + branch)
 
 def prepare():
 	test()
